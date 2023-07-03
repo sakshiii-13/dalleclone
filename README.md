@@ -7,7 +7,7 @@ Allows users to create images based on prompts and post the created images to a 
 
 
 
-Uses the OpenAI API to generate AI based images based on user prompts.
+Uses the OpenAI API to generate AI images based on user prompts.
 
 
 <img width="945" alt="image" src="https://github.com/sakshiii-13/dalleclone/assets/115460967/1f1be1b1-80c2-43ba-9cdb-1766f1176de6">
